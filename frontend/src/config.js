@@ -1,0 +1,3 @@
+export const CONTRACT_ADDRESS = "0x43ac9Ec41534adFf1cEDC37b2f10A65E6D486f31";
+export const EXPECTED_CHAIN_ID = 1337;
+export const EXPECTED_NETWORK_NAME = "Ganache";
