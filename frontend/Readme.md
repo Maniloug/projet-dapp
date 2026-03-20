@@ -119,7 +119,7 @@ src/
 ├── App.jsx        → composant principal
 ├── abi.json       → interface du smart contract
 ├── config.js      → configuration (adresse + réseau)
-❓ Questions importantes
+Questions importantes
 Pourquoi peut-on voir les résultats sans MetaMask ?
 
 Parce que la blockchain est publique.
